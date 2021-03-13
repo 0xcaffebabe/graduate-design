@@ -3,3 +3,5 @@
 2021/03/12 20:10:04 [error] 14272#18332: *5 CreateFile() "D:\learning\graduate-design\nginx-1.19.8/html/undefined" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /undefined HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
 2021/03/12 20:10:13 [error] 14272#18332: *6 CreateFile() "D:\learning\graduate-design\nginx-1.19.8/html/undefined" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /undefined HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
 2021/03/12 20:10:22 [notice] 17772#16824: signal process started
+2021/03/13 14:16:47 [error] 21180#15732: *6 CreateFile() "D:\learning\graduate-design\nginx-1.19.8/html/undefined" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /undefined HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2021/03/13 14:50:30 [notice] 4636#15348: signal process started
