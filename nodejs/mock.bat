@@ -1,0 +1,1 @@
+node.exe ./blb-consumer-frontend/src/mock/server.js
